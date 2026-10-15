@@ -1,0 +1,12 @@
+
+1. Supprime tout l'ancien contenu du repo GitHub l3-glar-a SAUF .git
+2. Mets juste ces fichiers:
+   - app.py (version robuste tout-en-un)
+   - requirements.txt (juste streamlit)
+   - assets/estm_logo.png
+   - assets/Babacar_Mbow.jpg
+3. git add . ; git commit -m "Fix definitif robuste" ; git push
+4. Sur Streamlit Cloud -> Reboot app
+5. Ca DOIT marcher - cette version n'a AUCUNE dépendance externe
+
+Une fois que ca marche, on remettra la version splendide complète.
