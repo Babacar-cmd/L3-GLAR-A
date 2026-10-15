@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+PyMuPDF
+python-dateutil
+Pillow
